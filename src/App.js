@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from 'https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg';
 import './App.css';
 
 function App() {
